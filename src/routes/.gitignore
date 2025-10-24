@@ -1,14 +1,15 @@
-# frontend
+# 프론트엔드
 /frontend/node_modules
 /frontend/.env
 /frontend/dist
 /frontend/build
 
-# backend
+# 백엔드
 /backend/node_modules
 /backend/.env
 
 # 공통
+node_modules/
 .env
 *.log
 .DS_Store
