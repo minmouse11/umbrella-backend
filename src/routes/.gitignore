@@ -1,0 +1,14 @@
+# frontend
+/frontend/node_modules
+/frontend/.env
+/frontend/dist
+/frontend/build
+
+# backend
+/backend/node_modules
+/backend/.env
+
+# 공통
+.env
+*.log
+.DS_Store
